@@ -1,0 +1,19 @@
+C:\Users\DELL\source\repos\The Journey\The Journey\bin\Debug\net6.0-windows\The Journey.exe
+C:\Users\DELL\source\repos\The Journey\The Journey\bin\Debug\net6.0-windows\The Journey.deps.json
+C:\Users\DELL\source\repos\The Journey\The Journey\bin\Debug\net6.0-windows\The Journey.runtimeconfig.json
+C:\Users\DELL\source\repos\The Journey\The Journey\bin\Debug\net6.0-windows\The Journey.dll
+C:\Users\DELL\source\repos\The Journey\The Journey\bin\Debug\net6.0-windows\The Journey.pdb
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The_Journey.CalculoC.resources
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The_Journey.Form1.resources
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The_Journey.Form2.resources
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.AssemblyInfo.cs
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.dll
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\refint\The Journey.dll
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.pdb
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\The Journey.genruntimeconfig.cache
+C:\Users\DELL\source\repos\The Journey\The Journey\obj\Debug\net6.0-windows\ref\The Journey.dll
